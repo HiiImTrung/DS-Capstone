@@ -39,9 +39,11 @@ Follow the instructions provided in the notebook cells to execute each step of t
 Ensure all dependencies are installed (Apache Spark, PySpark, etc.) to run the code successfully.
 
 **Conclusion**
+
 By analyzing user behavior and predicting churn, this project aims to provide valuable insights for businesses like Sparkify. Through data-driven decision-making, companies can optimize user retention strategies and enhance overall customer experience.
 
 **Acknowledgements**
+
 I would like to say thank to:
 
 - Udacity for providing the project framework.
