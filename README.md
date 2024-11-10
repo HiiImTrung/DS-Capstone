@@ -15,15 +15,14 @@ The objective of this project is to predict user churn for Sparkify, a digital m
 
 - Modeling: Split the dataset into train, test, and validation sets. Test various machine learning methods, evaluate model performance, and optimize based on metrics such as F1 score.
 
-**Files in the Repository
-**
+**Files in the Repository**
+
 - mini_sparkify_event_data.json: The dataset containing user interactions with the Sparkify platform.
 - Sparkify.ipynb: Jupyter Notebook containing the code for data analysis, feature engineering, and modeling.
 - README.md: This file, providing an overview of the project and instructions for getting started.
 - blog-post.md: This file, providing how we can leverage the Sparkify dataset to analyze user behavior and predict churn using Apache Spark.
 
-**Libraries Used
-**
+**Libraries Used**
 - pyspark
 - pandas
 - numpy
@@ -39,19 +38,15 @@ Follow the instructions provided in the notebook cells to execute each step of t
 
 Ensure all dependencies are installed (Apache Spark, PySpark, etc.) to run the code successfully.
 
-**Conclusion
-**
+**Conclusion**
 By analyzing user behavior and predicting churn, this project aims to provide valuable insights for businesses like Sparkify. Through data-driven decision-making, companies can optimize user retention strategies and enhance overall customer experience.
 
-**Acknowledgements
-**
-We would like to thank:
+**Acknowledgements**
+I would like to say thank to:
 
-Udacity for providing the project framework.
-
-The Sparkify dataset providers.
-
-All the open-source library maintainers and contributors.
+- Udacity for providing the project framework.
+- The Sparkify dataset providers.
+- All the open-source library maintainers and contributors.
 
 
 A Github repository of your work.
