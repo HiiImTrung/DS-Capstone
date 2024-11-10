@@ -1,7 +1,7 @@
 ## OBJECTIVE
 The objective of this project is to predict user churn for Sparkify, a digital music service. Churn prediction is critical to reducing customer attrition, enabling Sparkify to take targeted actions to retain at-risk users. Using a smaller subset of the data in this workspace and Spark for processing, this project will build a model to predict churn by analyzing user activity patterns.
 
-- Getting Started: To get started with this project, follow these steps:
+Getting Started: To get started with this project, follow these steps:
 
 - Load and Clean Dataset: Start by loading the dataset (mini_sparkify_event_data.json) and perform basic data cleaning operations to handle missing or invalid data.
 
