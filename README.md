@@ -20,7 +20,7 @@ The objective of this project is to predict user churn for Sparkify, a digital m
 - mini_sparkify_event_data.json: The dataset containing user interactions with the Sparkify platform.
 - Sparkify.ipynb: Jupyter Notebook containing the code for data analysis, feature engineering, and modeling.
 - README.md: This file, providing an overview of the project and instructions for getting started.
-- blog-post.md: This file, providing how we can leverage the Sparkify dataset to analyze user behavior and predict churn using Apache Spark.
+- Sparkify_blog.md: This file, providing how we can leverage the Sparkify dataset to analyze user behavior and predict churn using Apache Spark.
 
 **Libraries Used**
 - pyspark
@@ -49,10 +49,3 @@ I would like to say thank to:
 - Udacity for providing the project framework.
 - The Sparkify dataset providers.
 - All the open-source library maintainers and contributors.
-
-
-A Github repository of your work.
-The repository must have a README.md file that communicates the libraries used, the motivation for the project, the files in the repository with a small description of each, a summary of the results.
-
-
-A blog (or other media for a write-up) post written for a technical audience, or a deployed web application powered by data.
